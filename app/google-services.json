@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581744317096",
+    "project_id": "sguard-da24b",
+    "storage_bucket": "sguard-da24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581744317096:android:d6c6aaec3b991da4d8289d",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581744317096-2dagod2pn36ei77l37e8u0k23kf2s1gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV6BPzQ5Wka9JZb2_PNJD_ilEXDgQ0xe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581744317096-2dagod2pn36ei77l37e8u0k23kf2s1gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
